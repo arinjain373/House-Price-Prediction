@@ -1,6 +1,5 @@
 # House-Price-Prediction
 1.How to quickly spot relationships in a dataset using Seaborn's .pairplot(). 
-
 2.How to split the data into a training and testing dataset to better evaluate a model's performance.
  
 3.How to run a multivariable regression.
